@@ -1,3 +1,7 @@
+### Note
+
+This is an initial port to Python3 of an excellent tool called YEDDA.
+
 YEDDA: A Lightweight Collaborative Text Span Annotation Tool
 ======
 
